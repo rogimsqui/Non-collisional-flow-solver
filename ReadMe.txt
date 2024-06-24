@@ -12,9 +12,9 @@
 
 "Cylinder.stl" is a cylindrical mesh
 
-"ncr2.py" is bullshit (reflections with arrows)
+"ncr2.py" (which stands for Non Collisional with Reflections 2" is a code for reflections with arrows
 
-"ncr3.py" is also bullshit (reflections with origins marked as blue points)
+"ncr3.py" is a code for reflections with origins marked as blue points
 
 "ncr4.py" is an incorrect version of the diffuse reflection demonstrator code (reflection directions are random, but within the plane of the reflecting surface)
 
